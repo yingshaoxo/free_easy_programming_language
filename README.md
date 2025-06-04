@@ -25,6 +25,7 @@ It's in `a_lot_of_modules` folder
 
 ## Notes
 * This can be running in 'wine game helper' if you enable zh.utf-8, no gecko broswer plugin needed. (wine game helper is a fork of bottles, which allows you to run windows software under linux desktop, for example, deepin20.09)
+* But if you use normal wine, it is also fine, just do `wine e.exe`. Use `winetricks cjkfonts` to fix chinese language issue.
 * Can be used to develop windows xp 32bit statically compiled software.
 * **我仔细研究了下易语言的条款，发现有一句“公司保留在任何时候通过为您提供本软件的替换或修改版本使本软件升级的权利”，那岂不是意味着易飞扬公司随时都可以撬开你的硬盘，硬给你塞一个满是限制的不自由编译器？强制更新且不请求用户的同意。看起来易语言和windows系统一样，都是一个大坑。**
 
